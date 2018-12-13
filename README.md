@@ -18,11 +18,11 @@ This is a template Vue website to use as a starting point for new projects. Exam
 
 * Copy the repo
 
-`$ git clone https://github.com/mstuartf/skeleton-vue-site.git`
+`$ git clone https://github.com/mstuartf/skeleton-vue-site.git new-project-name`
 
 * Init new repo
 
-`$ cd skeleton-vue-site`
+`$ cd new-project-name`
 
 `$ rm -fr .git`
 
