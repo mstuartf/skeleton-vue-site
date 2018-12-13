@@ -6,7 +6,7 @@
 
             <slot></slot>
 
-            <span class="block h-1 line-under" 
+            <span class="block h-1 line-under color-inherit" 
                   :style="underlineStyle">
             </span>
 
@@ -28,7 +28,7 @@ export default {
 
         underlineStyle() {
             return {
-                'background-color': this.isUnderlined ? this.color : 'unset'
+                'background-color': this.isUnderlined ? 'currentColor' : 'unset'
             }
         }
 
