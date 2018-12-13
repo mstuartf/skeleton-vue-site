@@ -20,9 +20,15 @@ This is a template Vue website to use as a starting point for new projects. Exam
 
 `$ git clone https://github.com/mstuartf/skeleton-vue-site.git`
 
-* Install packages
+* Init new repo
 
 `$ cd skeleton-vue-site`
+
+`$ rm -fr .git`
+
+`$ git init`
+
+* Install packages
 
 `$ npm install`
 
