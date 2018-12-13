@@ -1,6 +1,6 @@
 {
-  "name": "my-site",
-  "description": "A Vue.js project",
+  "name": "skeleton-vue-site",
+  "description": "A template Vue website",
   "version": "1.0.0",
   "author": "Mike Flood <mstuartflood@gmail.com>",
   "license": "MIT",

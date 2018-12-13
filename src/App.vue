@@ -96,53 +96,53 @@
             </div>
             <div class="h-24 flex items-center justify-center p-4 pt-2">
                 <div class="w-full h-full flex items-center justify-center border-4 border-pink bg-pink-lighter">
-                    </div>
+                </div>
             </div>
         </div>
         <!-- SECTION 2 -->
         <SplitSection id="section-2" :flatten="false">
             <div slot="part-1" class="w-full h-full">
-              <div class="h-full w-full">
-                <div class="h-1/2 w-full p-4 pb-2 md:pr-2">
-                  <div class="border-4 border-green w-full h-full bg-green-lighter"></div>
+                <div class="h-full w-full">
+                    <div class="h-1/2 w-full p-4 pb-2 md:pr-2">
+                        <div class="border-4 border-green w-full h-full bg-green-lighter"></div>
+                    </div>
+                    <div class="h-1/2 w-full p-4 pt-2 md:pr-2">
+                        <div class="border-4 border-green w-full h-full bg-green-lighter"></div>
+                    </div>
                 </div>
-                <div class="h-1/2 w-full p-4 pt-2 md:pr-2">
-                  <div class="border-4 border-green w-full h-full bg-green-lighter"></div>
-                </div>
-              </div>
             </div>
             <div slot="part-2" class="w-full h-full">
-              <div class="h-full w-full">
-                <div class="h-1/2 w-full p-4 pb-2 md:pl-2">
-                  <div class="border-4 border-yellow w-full h-full bg-yellow-lighter"></div>
+                <div class="h-full w-full">
+                    <div class="h-1/2 w-full p-4 pb-2 md:pl-2">
+                        <div class="border-4 border-yellow w-full h-full bg-yellow-lighter"></div>
+                    </div>
+                    <div class="h-1/2 w-full p-4 pt-2 md:pl-2">
+                        <div class="border-4 border-yellow w-full h-full bg-yellow-lighter"></div>
+                    </div>
                 </div>
-                <div class="h-1/2 w-full p-4 pt-2 md:pl-2">
-                  <div class="border-4 border-yellow w-full h-full bg-yellow-lighter"></div>
-                </div>
-              </div>
             </div>
         </SplitSection>
         <!-- SECTION 3 -->
         <SplitSection id="section-3" :flatten="true">
             <div slot="part-1" class="w-full h-full">
-              <div class="h-full w-full md:flex">
-                <div class="h-1/2 w-full md:h-full md:w-1/2 p-4 pb-2 md:pr-2">
-                  <div class="border-4 border-red w-full h-full bg-red-lighter"></div>
+                <div class="h-full w-full md:flex">
+                    <div class="h-1/2 w-full md:h-full md:w-1/2 p-4 pb-2 md:pr-2">
+                        <div class="border-4 border-red w-full h-full bg-red-lighter"></div>
+                    </div>
+                    <div class="h-1/2 w-full md:h-full md:w-1/2 p-4 pt-2 md:pt-4 md:pb-2 md:pl-2">
+                        <div class="border-4 border-red w-full h-full bg-red-lighter"></div>
+                    </div>
                 </div>
-                <div class="h-1/2 w-full md:h-full md:w-1/2 p-4 pt-2 md:pt-4 md:pb-2 md:pl-2">
-                  <div class="border-4 border-red w-full h-full bg-red-lighter"></div>
-                </div>
-              </div>
             </div>
             <div slot="part-2" class="w-full h-full">
-              <div class="h-full w-full md:flex">
-                <div class="h-1/2 w-full md:h-full md:w-1/2 p-4 pb-2 md:pb-4 md:pt-2 md:pr-2">
-                  <div class="border-4 border-blue w-full h-full bg-blue-lighter"></div>
+                <div class="h-full w-full md:flex">
+                    <div class="h-1/2 w-full md:h-full md:w-1/2 p-4 pb-2 md:pb-4 md:pt-2 md:pr-2">
+                        <div class="border-4 border-blue w-full h-full bg-blue-lighter"></div>
+                    </div>
+                    <div class="h-1/2 w-full md:h-full md:w-1/2 p-4 pt-2 md:pl-2">
+                        <div class="border-4 border-blue w-full h-full bg-blue-lighter"></div>
+                    </div>
                 </div>
-                <div class="h-1/2 w-full md:h-full md:w-1/2 p-4 pt-2 md:pl-2">
-                  <div class="border-4 border-blue w-full h-full bg-blue-lighter"></div>
-                </div>
-              </div>
             </div>
         </SplitSection>
     </div>
