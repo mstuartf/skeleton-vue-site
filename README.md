@@ -22,7 +22,9 @@ This is a template Vue website to use as a starting point for new projects. Exam
 
 * Install packages
 
-`$ npm run install`
+`$ cd skeleton-vue-site`
+
+`$ npm install`
 
 * Generate SVG files
 
