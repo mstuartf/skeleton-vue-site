@@ -1,6 +1,6 @@
 # skeleton-vue-site
 
-This is a template Vue website to use as a starting point for new projects.
+This is a template Vue website to use as a starting point for new projects. Example [here](http://skeleton-vue-site.s3-website.eu-west-2.amazonaws.com)
 
 ## Features
 
